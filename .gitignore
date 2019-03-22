@@ -1,2 +1,5 @@
 *.csv
 *.ipynb_*
+*_pycache_*
+*env.py
+*zillow_data_dictionary*
